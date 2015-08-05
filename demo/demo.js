@@ -6,7 +6,7 @@ cal.addEvent('New Years', 'Watch the ball drop!', 'New York', '01/01/2015', '01/
 cal.addEvent('New Years', 'Watch the ball drop!', 'New York', '01/01/2016', '01/01/2016');
 
 var cal_single = ics();
-cal_single.addEvent('Best Day', 'This is the best day to demonstrate a single event.', 'New York', '11/12/1987', '11/12/1987');
+cal_single.addEvent('Best Day', ‘This is the best day "to" demonstrate a single event.’, 'New York', '11/12/1987', '11/12/1987');
 
 
 // You can use this for easy debugging
